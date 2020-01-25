@@ -1,3 +1,3 @@
-# Ooops
+# Github Site
 
-Something went wrong with the index file. I'm still learning!
+This is my github site.
